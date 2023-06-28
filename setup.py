@@ -4,7 +4,7 @@ setup(
     name='ctafpe',
     version='1.0.0',
     author='ctaMTX',
-    mail='ctamtx@gmail.com',
+    author_email='ctamtx@gmail.com',
     description='Lets you see FPE files.',
     long_description='A library for viewing the animation keyframes for GameGuru software's FPE entities files.',
     long_description_content_type='text/markdown',
